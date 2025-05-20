@@ -1,3 +1,7 @@
+Documentación externa utilizada:
+https://www.mongodb.com/docs/manual/reference/operator/update/addToSet/
+https://www.geeksforgeeks.org/mongodb-addtoset-operator/
+
 # ENDPOINTS
 
 - Tener en cuenta que las URLs de ejemplo no funcionarán en caso de contener un ID, ya que los IDs de ejemplo pertenecen a datos viejos
