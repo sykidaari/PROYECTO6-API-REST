@@ -1,6 +1,9 @@
-Documentación externa utilizada:
+# Documentación externa utilizada:
+
 https://www.mongodb.com/docs/manual/reference/operator/update/addToSet/
 https://www.geeksforgeeks.org/mongodb-addtoset-operator/
+
+https://github.com/expressjs/express/discussions/4977
 
 # ENDPOINTS
 
